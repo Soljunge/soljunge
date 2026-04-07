@@ -31,6 +31,7 @@ Here are some of the technologies and platforms I frequently use:
 
 My mission: Making the agents economy real with crypto.
 
----
+## Connect with Me
 
-Feel free to explore my repositories and connect with me on my journey to shape the future of AI, Web3, and the agents economy!
+[![Website](https://img.shields.io/badge/Website-horatiucode.xyz-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://horatiucode.xyz)
+[![Twitter](https://img.shields.io/badge/Twitter-@SolJunge-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/SolJunge)
